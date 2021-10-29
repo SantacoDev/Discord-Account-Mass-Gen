@@ -1,6 +1,10 @@
 # Discord-Account-Mass-Gen
-Discord Account Generator
+Discord Account Generator  
 
-run **pip install -r requirements.txt** for Install *modules*  
+__Discord Account Generator__ with **httpx** module  
+
+~ **support proxy**  
+~ **Auto Join Server**  
+  
 run **python massgen.py** in *windows*    
 run **python3 massgen.py** in *linux*    
