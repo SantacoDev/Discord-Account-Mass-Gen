@@ -1,5 +1,4 @@
 # Discord-Account-Mass-Gen
-Discord Account Generator  
 
 __Discord Account Generator__ with **httpx** module  
 
